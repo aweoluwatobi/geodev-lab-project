@@ -61,3 +61,4 @@
 - **Source:** https://data.grid3.org/maps/6966d625aea0488496d01debd3bb80f9/about
 - **Downloaded:** 5th September, 2026
 - Raster Layers
+- Coverage looks good in study area
