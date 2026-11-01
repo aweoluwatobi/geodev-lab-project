@@ -11,5 +11,5 @@ See project-brief.md for the full brief.
 - Week 8: inspect_data.py summarizes population in my Shomolu wards data.
 - Week 9: summary.py used dictionary and functions for consolidation and refactoring
 
-## Month 2 reflection
+### Month 2 reflection
 I was able to read a csv file using python, ensure it is clean and then use it to summarize data. Dictionary and using functions properly especially for refactoring clicked. With practice, I'm sure I will understand more and more. The capstone for the month was able to summarize certain metrics in my data such as the count, minimum, maximum and average.
