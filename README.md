@@ -19,4 +19,4 @@ I was able to read a csv file using python, ensure it is clean and then use it t
 
 ## Month 3: geospatial Python and automation heading
 
-- Week 10: Geopandas, Loaded, checked, joined and mapped practical data and my Shomolu ward and school in code.
+- Week 10: Geopandas, Loaded, checked, joined and mapped practical data and my ward and school layer in code.
