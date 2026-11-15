@@ -22,18 +22,19 @@
 ## How to run it
 
 From the repository root:
-uv run month-03/week-10/explore_pandas.py
-uv run month-03/week-10/filter_sort.py
-uv run month-03/week-10/explore_layer.py
-uv run month-03/week-10/geom_props.py
-uv run month-03/week-10/csv_to_points.py
-uv run month-03/week-10/join_population.py
-uv run month-03/week-10/make_map.py
-uv run month-03/week-10/save_outputs.py
-uv run month-03/week-10/my_explore.py
-uv run month-03/week-10/my_points.py
-uv run month-03/week-10/my_join.py
-uv run month-03/week-10/my_map.py
+
+- uv run month-03/week-10/explore_pandas.py
+- uv run month-03/week-10/filter_sort.py
+- uv run month-03/week-10/explore_layer.py
+- uv run month-03/week-10/geom_props.py
+- uv run month-03/week-10/csv_to_points.py
+- uv run month-03/week-10/join_population.py
+- uv run month-03/week-10/make_map.py
+- uv run month-03/week-10/save_outputs.py
+- uv run month-03/week-10/my_explore.py
+- uv run month-03/week-10/my_points.py
+- uv run month-03/week-10/my_join.py
+- uv run month-03/week-10/my_map.py
 
 ## What I found
 
@@ -44,6 +45,6 @@ uv run month-03/week-10/my_map.py
 
 ## What went wrong and how I fixed it
 
--In the my_points.py challenge, I did not have any CSV with coordinates as part of my project so I used the health_facilities.csv and cleaned up the type column so that PHC and Primary Health Centre becomes one value.
+- In the my_points.py challenge, I did not have any CSV with coordinates as part of my project so I used the health_facilities.csv and cleaned up the type column so that PHC and Primary Health Centre becomes one value.
 
 - In the my_join.py challenge, I didn't have any ward related data I could add to the ward layer so I decided to use the school layers. There are 149 schools for my study and there are schools in each ward after observation. Intially after join, I was getting 149 of 16 records match. I decided to first summarize the schools by wardname. The result is a new dataframe called school_counts with 16 records. After running join operation again, the 16 ward records matched.
