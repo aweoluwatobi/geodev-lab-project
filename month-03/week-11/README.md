@@ -41,3 +41,8 @@ From the repository root:
 - There is at least one school in each ward.
 - I chose a buffer of 500m since I wanted to know the population of primary school children that live within 500m of a school. Government officials can use this to quickly spot underserved neighborhoods that lack convenient walk-to-school access, helping them decide where public interventions, community school partnerships, or safe walking routes are needed most
 - There was no invalid geometry
+
+## Limitation of method
+
+- Using a buffer of 500m nearly covered the whole study area. This will mean almost all wards are completely covered.
+- I couldnt use make_valid as the geometry was already valid.
