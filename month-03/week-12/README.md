@@ -43,5 +43,3 @@ From the repository root:
 - I inspected band 4 The Width is 7443 and the Height is 7703.The left is 396570.0, bottom is 523590.0, right is 619860.0 and top is 754680.0. After checking the width times resolution of the raster, it equals the right minus left.
 
 - For this independent challenge, I decided to calculate NDVI though it doesn't suit my main research question but it was good for independent challenge.
-
-## Limitation of method
