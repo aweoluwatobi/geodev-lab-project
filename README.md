@@ -21,3 +21,4 @@ I was able to read a csv file using python, ensure it is clean and then use it t
 
 - Week 10: Geopandas, Loaded, checked, joined and mapped practical data and my ward and school layer in code.
 - Week 11: CRS and spatial operations. Reprojected to EPSG:36231 and measured area.
+- Week 12: Rasters. Computed NDVI for Shomolu and summarized it per ward.
